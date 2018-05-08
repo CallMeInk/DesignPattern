@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9b67f0-4afc-40b1-929f-c2682d666076" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/Chapter01Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/Operation$Companion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/Operation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/Operation1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationAdd.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationDiv.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationFactory$Companion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationMul.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter01/OperationSub.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashAcceptV1$Companion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashAcceptV1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashFactory$Companion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashNormal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashRebate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/CashSuper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/Chaptor02Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter02/Strategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter03/Chapter03Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter04/Chapter04Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter05/Chapter05Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/BigTrouser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/Chapter06Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/Finery.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/PersonKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter06/TShirts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter07/Chapter07Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter07/IGiveGift.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter07/Proxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter07/Pursuit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter07/SchoolGirl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter08/AddFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter08/Chapter08Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter08/IFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Chapter08/SubFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter03_单一职责原则/Chapter03.kt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter04_开放封闭原则/Chapter04.kt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter05_依赖倒转原则/Chapter05.kt" />
