@@ -1,4 +1,4 @@
-package Chapter01
+package Chapter01_简单工厂模式
 
 interface Operation1{
     var numberA: Double

@@ -1,4 +1,4 @@
-package Chaptor02
+package Chapter02_策略模式
 
 /**
  * 策略加简单工厂

@@ -1,4 +1,4 @@
-package Chapter01
+package Chapter01_简单工厂模式
 
 /**
  * pros:面向对象
